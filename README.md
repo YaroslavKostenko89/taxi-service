@@ -21,4 +21,5 @@ The application uses:
 
 Before launching the application:
 - run script from the resources/init_db.sql file in the Workbench, to create a schema and the necessary tables in the database;
-- Configure the server TomCat (if necessary, install it).
+- Configure the server TomCat (if necessary, install it);
+- In class ConnectionUtil set you're parameters for connection to DB.
